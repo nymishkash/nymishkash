@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey there! My name is Nymish and I love building stuff. I am currently a 2nd year Computer Science Student @ Scaler School of Technology, Bengaluru. 
 
 
